@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "selenium script",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invisssible/HoriachevYehor.git#WebUI"
+  },
+  "keywords": [
+    "Horiachev"
+  ],
+  "author": "invisssible",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/invisssible/HoriachevYehor/issues"
+  },
+  "homepage": "https://github.com/invisssible/HoriachevYehor/tree/WebUI#readme"
+}
